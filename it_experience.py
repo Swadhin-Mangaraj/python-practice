@@ -1,9 +1,13 @@
 #####################################################################
+#   © Copyright 2020-2020                                           #
+#   Swadhin K Mangaraj, swadhin.mangaraj@gmail.com                  #
+#                                                                   #
+#   SPDX-License-Identifier: MIT                                    #
+#                                                                   #
 #   Program Description:                                            #
 #   This small utility calculates the total IT experience           #
 #   of an individual who has worked in multiple companies.          #
 #                                                                   #
-#   Created by: Swadhin Kumar Mangaraj                              #
 #   Initial Version on: 07-Feb-2020                                 #
 #   Last Modified on: 07-Feb-2020                                   #
 #                                                                   #
